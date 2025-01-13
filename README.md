@@ -1,9 +1,9 @@
 # Techstack
-Dynatrace - system monitoring
-Harness - CI/CD pipelines
-Gitlab - Automated software delivery
-Docker - containerization
-AWS ECR & ECS - Docker container registry and deployment
+- Dynatrace: system monitoring
+- Harness: CI/CD pipelines
+- Gitlab: Automated software delivery
+- Docker: containerization
+- AWS ECR & ECS: Docker container registry and deployment
 
 # General Process
 - Store codebase on Gitlab
